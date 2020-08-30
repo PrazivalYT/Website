@@ -1,0 +1,24 @@
+img{
+     width: 290px;
+    height: 290px;
+    margin: 10px;
+    margin-left: 20px;
+    border: 5px solid #0023FF;
+}
+body{
+    background-color:#00c178;
+}
+h1{
+    margin-left: 550px;
+    margin-top: 28px;
+    font-family:sans-serif;
+    font-style:italic;
+    color:red;
+    text-decoration-line: underline;
+    text-decoration-color: green;
+}
+hr{
+    height: 7px;
+    background-color:#E77335;
+    border:55px skyblue  dotted;
+}
